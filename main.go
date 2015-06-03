@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 	"fmt"
+	"github.com/guilhermebr/goparser/parser"
 )
-import "github.com/guilhermebr/goparser/parser"
 
 func main() {
 	flag.Parse()
